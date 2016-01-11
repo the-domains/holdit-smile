@@ -1,6 +1,6 @@
 name: holdit-smile
 favicon: null
-layout_spectrum: 0.5729
+layout_spectrum: 0.74357
 typography_spectrum: 0.34014
 title: 'Photography & Traveling & Both'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0
-  lightness: 0.6498215589672327
+  lightness: 0
   saturation: 1
   rhythmicContrast: 0.5
 purpose: []
