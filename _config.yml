@@ -13,9 +13,9 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.2491039
-  brandStrength: 0
+  saturation: 0
   lightness: 1
+  brandStrength: 0
   brandColors:
     - '#17BEBB'
     - '#2E282A'
