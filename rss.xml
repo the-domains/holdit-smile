@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Photography & Traveling & Both]]></title>
+        <description><![CDATA[Photography & Traveling & Both]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 16:58:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GEEN BROMFIETSEN - AMSTERDAM]]></title>
+            <description><![CDATA[<article><h1>GEEN BROMFIETSEN - AMSTERDAM</h1><p>Heute war der letzte von 23 Tagen in Amsterdam. Morgen geht es über Rotterdam nach Antwerpen, von dort am Sonntag zurück nach Hause. Höchste Zeit, unsere Eindrücke festzuhalten.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3794c1881747ecbd2af04f929dc9d1e21a408eb7.jpg"></article>]]></description>
+            <link>undefinedgeen-bromfietsen-amsterdam/index.html</link>
+            <guid isPermaLink="false">4439e1d0-985d-449e-8f68-e7a2d2b1a626</guid>
+            <pubDate>Mon, 11 Jan 2016 16:58:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
