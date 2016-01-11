@@ -1,0 +1,28 @@
+name: holdit-smile
+favicon: null
+layout_spectrum: 0.0790284622926265
+typography_spectrum: 0.11827080231159925
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9068965849000961
+  lightness: 0.6498215589672327
+  saturation: 0.245449960231781
+  rhythmicContrast: 0.06285553611814976
+purpose: []
