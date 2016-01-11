@@ -1,29 +1,41 @@
-name: holdit-smile
-favicon: null
-layout_spectrum: 0.74357
-typography_spectrum: 0.34014
 title: 'Photography & Traveling & Both'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2491039
+  brandStrength: 0
+  lightness: 1
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.2311828
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: holdit-smile
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1899642
+layout_spectrum: 0.74357
